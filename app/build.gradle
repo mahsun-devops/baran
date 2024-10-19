@@ -1,0 +1,5 @@
+dependencies {
+    // reCAPTCHA için Google Play Services
+    implementation 'com.google.android.gms:play-services-safetynet:18.0.1'
+    // Diğer bağımlılıklar...
+}
